@@ -1,0 +1,1 @@
+Solutions to kattis problems with difficulty between 1.0 and 1.9
